@@ -1,9 +1,8 @@
 {
 	"files.exclude": {
-		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscapeRepo/BuildingEscape/.vscode": true,
-		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscapeRepo/BuildingEscape/BuildingEscape.xcworkspace": true,
-		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscapeRepo/BuildingEscape/Content": true,
-		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscapeRepo/BuildingEscape/Intermediate": true,
-		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscapeRepo/BuildingEscape/Saved": true
+		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscape2019/BuildingEscape/.vscode": true,
+		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscape2019/BuildingEscape/Content": true,
+		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscape2019/BuildingEscape/Intermediate": true,
+		"/Users/dylanfairbanks/Documents/Unreal Projects/BuildingEscape2019/BuildingEscape/Saved": true
 	}
 }
